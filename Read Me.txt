@@ -1,0 +1,10 @@
+All jar files are inside dist folder of each project
+
+There are two different implementations of Validate User Entries
+1.Monolithic version
+2.Matching Specifications
+
+For Hare-Tortoise Race ,the java file or the jar should be implemented on an IDE as the result
+is in console.
+
+Thankyou.
